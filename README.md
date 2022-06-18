@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleckDHolly
 - 👀 I’m interested in computer science/software engineering
 - 🌱 I’m currently learning computer science at school and software engineering in my free time
-- 💞️ I’m looking to collaborate on websites
+- 💞️ I’m looking to collaborate on flutter apps
 - 📫 How to reach me kcelaofficial@gmail.com
 
 <!---
