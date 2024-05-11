@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AleckDHolly
-- 👀 I’m interested in computer science/software engineering
-- 🌱 I’m currently learning computer science at school and software engineering in my free time
-- 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me kcelaofficial@gmail.com
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning mobile app development at school and in my free time
+- 💞️ I love making mobile apps, either with SwiftUI or Flutter
+- 📫 How to reach me: aleckdavidholly@gmail.com
 
 <!---
 AleckDHolly/AleckDHolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
