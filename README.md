@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleckDHolly
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning mobile app development at school and in my free time
-- 💞️ I love making mobile apps, either with SwiftUI or Flutter
+- 🌱 I now have my Certificate in Mobile App Development
+- 💞️ I love making mobile apps with SwiftUI
 - 📫 How to reach me: aleckdavidholly@gmail.com
 
 <!---
